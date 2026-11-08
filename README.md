@@ -59,10 +59,24 @@ I’m building and improving projects as I continue learning.
 ## `$ github-stats`
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Afnan-Ghoni-Brinto&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afnan-Ghoni-Brinto&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+
+  <!-- GitHub Stats -->
+  <img height="165"
+    src="https://github-stats-extended.vercel.app/api?username=Afnan-Ghoni-Brinto&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="GitHub Statistics"/>
+
+  <!-- Top Languages -->
+  <img height="165"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Afnan-Ghoni-Brinto&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"/>
+
   <br/>
-  <img width="70%" src="https://streak-stats.demolab.com?user=Afnan-Ghoni-Brinto&theme=tokyonight&hide_border=true&ring=00D9FF&fire=FF4D8D&currStreakLabel=00D9FF" alt="GitHub contribution streak"/>
+
+  <!-- Contribution Streak -->
+  <img width="70%"
+    src="https://streak-stats.demolab.com?user=Afnan-Ghoni-Brinto&theme=tokyonight&hide_border=true&ring=00D9FF&fire=FF4D8D&currStreakLabel=00D9FF"
+    alt="GitHub Contribution Streak"/>
+
 </div>
 
 ## `$ contribution-snake`
