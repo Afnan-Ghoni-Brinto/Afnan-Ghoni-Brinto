@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=190&color=0:080B18,45:24104F,100:00D9FF&text=AFNAN%20GHONI%20BRINTO&fontColor=FFFFFF&fontSize=36&fontAlignY=43&desc=COMPUTER%20SCIENCE%20STUDENT%20%7C%20DEVELOPER&descAlignY=64&descSize=14&animation=twinkling" width="100%" alt="Afnan Ghoni Brinto cyberpunk banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=190&color=0:080B18,45:24104F,100:00D9FF&text=AFNAN%20GHONI%20BRINTO&fontColor=E8C77B&fontSize=36&fontAlignY=43&desc=COMPUTER%20SCIENCE%20STUDENT%20%7C%20DEVELOPER&descAlignY=64&descSize=14&animation=twinkling" width="100%" alt="Afnan Ghoni Brinto cyberpunk banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student+at+AIUB;Learning+%7C+Building+%7C+Improving;Interested+in+Software+%26+Web+Development;Exploring+AI%2C+ML+%26+Algorithms" alt="Animated introduction"/>
 
