@@ -73,9 +73,11 @@ I’m building and improving projects as I continue learning.
   <br/>
 
   <!-- Contribution Streak -->
-  <img width="70%"
-    src="https://streak-stats.demolab.com?user=Afnan-Ghoni-Brinto&theme=tokyonight&hide_border=true&ring=00D9FF&fire=FF4D8D&currStreakLabel=00D9FF"
-    alt="GitHub Contribution Streak"/>
+  <img
+  width="70%"
+  src="https://streak-stats.demolab.com/?user=Afnan-Ghoni-Brinto&theme=tokyonight&hide_border=true&ring=00D9FF&fire=FF4D8D&currStreakLabel=00D9FF&v=2"
+  alt="GitHub Contribution Streak"
+  />
 
 </div>
 
