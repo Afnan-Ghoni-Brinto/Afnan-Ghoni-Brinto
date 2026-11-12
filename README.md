@@ -60,15 +60,19 @@ I’m building and improving projects as I continue learning.
 
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img height="165"
-    src="https://github-stats-extended.vercel.app/api?username=Afnan-Ghoni-Brinto&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="GitHub Statistics"/>
+  <!-- GitHub Statistics -->
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api?username=Afnan-Ghoni-Brinto&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&contribs_include_own_repos=true"
+    alt="Afnan's GitHub Statistics"
+  />
 
   <!-- Top Languages -->
-  <img height="165"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Afnan-Ghoni-Brinto&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Languages"/>
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Afnan-Ghoni-Brinto&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
+    alt="Most Used Programming Languages"
+  />
 
   <br/>
 
