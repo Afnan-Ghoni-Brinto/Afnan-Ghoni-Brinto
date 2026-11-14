@@ -67,12 +67,12 @@ I’m building and improving projects as I continue learning.
     alt="Afnan's GitHub Statistics"
   />
 
-  <!-- Top Languages -->
-  <img
-    height="180"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Afnan-Ghoni-Brinto&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
-    alt="Most Used Programming Languages"
-  />
+<!-- Top Languages -->
+<img
+  height="180"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=Afnan-Ghoni-Brinto&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5"
+  alt="Most Used Programming Languages"
+/>
 
   <br/>
 
