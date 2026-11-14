@@ -67,13 +67,75 @@ I’m building and improving projects as I continue learning.
     alt="Afnan's GitHub Statistics"
   />
 
-<!-- Top Languages -->
-<img
-  height="180"
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=Afnan-Ghoni-Brinto&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5"
-  alt="Most Used Programming Languages"
-/>
+## `⟡  LANGUAGE UNIVERSE`
 
+<div align="center">
+
+  <img src="https://img.shields.io/badge/01-PROGRAMMING_LANGUAGES-00D9FF?style=for-the-badge&labelColor=080B18" />
+
+  <br/><br/>
+
+  <h3>⚡ My Coding Languages</h3>
+
+  <p>
+    <i>Exploring technologies, writing code, and building new things.</i>
+  </p>
+
+  <br/>
+
+  <a href="https://github.com/Afnan-Ghoni-Brinto">
+    <img
+      width="85%"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=Afnan-Ghoni-Brinto&layout=donut-vertical&theme=tokyonight&hide_border=false&border_color=30363D&border_radius=12&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=8B5CF6&langs_count=10&card_width=600&custom_title=MY%20LANGUAGE%20ECOSYSTEM&size_weight=0.5&count_weight=0.5"
+      alt="Afnan's Language Statistics"
+    />
+  </a>
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/LEARN-00D9FF?style=flat-square&labelColor=080B18" />
+  <img src="https://img.shields.io/badge/BUILD-8B5CF6?style=flat-square&labelColor=080B18" />
+  <img src="https://img.shields.io/badge/IMPROVE-FF4D8D?style=flat-square&labelColor=080B18" />
+
+  <br/><br/>
+
+  <sub>Every line of code is another step forward.</sub>
+
+</div>## `⟡  LANGUAGE UNIVERSE`
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/01-PROGRAMMING_LANGUAGES-00D9FF?style=for-the-badge&labelColor=080B18" />
+
+  <br/><br/>
+
+  <h3>⚡ My Coding Languages</h3>
+
+  <p>
+    <i>Exploring technologies, writing code, and building new things.</i>
+  </p>
+
+  <br/>
+
+  <a href="https://github.com/Afnan-Ghoni-Brinto">
+    <img
+      width="85%"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=Afnan-Ghoni-Brinto&layout=donut-vertical&theme=tokyonight&hide_border=false&border_color=30363D&border_radius=12&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=8B5CF6&langs_count=10&card_width=600&custom_title=MY%20LANGUAGE%20ECOSYSTEM&size_weight=0.5&count_weight=0.5"
+      alt="Afnan's Language Statistics"
+    />
+  </a>
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/LEARN-00D9FF?style=flat-square&labelColor=080B18" />
+  <img src="https://img.shields.io/badge/BUILD-8B5CF6?style=flat-square&labelColor=080B18" />
+  <img src="https://img.shields.io/badge/IMPROVE-FF4D8D?style=flat-square&labelColor=080B18" />
+
+  <br/><br/>
+
+  <sub>Every line of code is another step forward.</sub>
+
+</div>
   <br/>
 
   <!-- Contribution Streak -->
