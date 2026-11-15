@@ -69,7 +69,7 @@ I’m building and improving projects as I continue learning.
 
   <h3>⚡ My Coding Languages</h3>
 
-  <p>
+  <p align="center">
     <i>Exploring technologies, writing code, and building new things.</i>
   </p>
 
