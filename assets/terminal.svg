@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 360" width="820" height="360" role="img" aria-label="Terminal window introducing Afnan Ghoni Brinto">
+  <defs>
+    <linearGradient id="win" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#0A0E1A"/>
+    </linearGradient>
+    <clipPath id="c1"><rect x="40" y="76" width="0" height="26"><animate attributeName="width" values="0;0;740;740;0" keyTimes="0;0.0333;0.1;0.95;1" dur="15s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c2"><rect x="40" y="108" width="0" height="26"><animate attributeName="width" values="0;0;740;740;0" keyTimes="0;0.12;0.1867;0.95;1" dur="15s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c3"><rect x="40" y="140" width="0" height="26"><animate attributeName="width" values="0;0;740;740;0" keyTimes="0;0.24;0.3067;0.95;1" dur="15s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c4"><rect x="40" y="172" width="0" height="26"><animate attributeName="width" values="0;0;740;740;0" keyTimes="0;0.3267;0.3933;0.95;1" dur="15s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c5"><rect x="40" y="204" width="0" height="26"><animate attributeName="width" values="0;0;740;740;0" keyTimes="0;0.4467;0.5133;0.95;1" dur="15s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c6"><rect x="40" y="236" width="0" height="26"><animate attributeName="width" values="0;0;740;740;0" keyTimes="0;0.5333;0.6;0.95;1" dur="15s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c7"><rect x="40" y="268" width="0" height="26"><animate attributeName="width" values="0;0;740;740;0" keyTimes="0;0.6533;0.72;0.95;1" dur="15s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c8"><rect x="40" y="300" width="0" height="26"><animate attributeName="width" values="0;0;740;740;0" keyTimes="0;0.74;0.8067;0.95;1" dur="15s" repeatCount="indefinite"/></rect></clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="818" height="358" rx="14" fill="url(#win)" stroke="#30363D" stroke-width="2"/>
+  <path d="M1 15a14 14 0 0 1 14-14h790a14 14 0 0 1 14 14v34H1z" fill="#161B22"/>
+  <circle cx="30" cy="26" r="7" fill="#FF5F56"/>
+  <circle cx="54" cy="26" r="7" fill="#FFBD2E"/>
+  <circle cx="78" cy="26" r="7" fill="#27C93F"/>
+  <text x="410" y="31" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="14" fill="#8B949E">afnan@aiub: ~</text>
+
+  <g font-family="Consolas, 'Courier New', monospace" font-size="18">
+    <g clip-path="url(#c1)"><text x="40" y="96"><tspan fill="#27C93F">afnan@dev</tspan><tspan fill="#8B949E">:</tspan><tspan fill="#00D9FF">~</tspan><tspan fill="#8B949E">$ </tspan><tspan fill="#E6EDF3">whoami</tspan></text></g>
+    <g clip-path="url(#c2)"><text x="40" y="128" fill="#E8C77B">Afnan Ghoni Brinto</text></g>
+
+    <g clip-path="url(#c3)"><text x="40" y="160"><tspan fill="#27C93F">afnan@dev</tspan><tspan fill="#8B949E">:</tspan><tspan fill="#00D9FF">~</tspan><tspan fill="#8B949E">$ </tspan><tspan fill="#E6EDF3">cat education.txt</tspan></text></g>
+    <g clip-path="url(#c4)"><text x="40" y="192" fill="#C9D1D9">Computer Science &amp; Engineering @ AIUB</text></g>
+
+    <g clip-path="url(#c5)"><text x="40" y="224"><tspan fill="#27C93F">afnan@dev</tspan><tspan fill="#8B949E">:</tspan><tspan fill="#00D9FF">~</tspan><tspan fill="#8B949E">$ </tspan><tspan fill="#E6EDF3">ls interests/</tspan></text></g>
+    <g clip-path="url(#c6)"><text x="40" y="256" fill="#8B5CF6">software-dev   web   ai-ml   algorithms</text></g>
+
+    <g clip-path="url(#c7)"><text x="40" y="288"><tspan fill="#27C93F">afnan@dev</tspan><tspan fill="#8B949E">:</tspan><tspan fill="#00D9FF">~</tspan><tspan fill="#8B949E">$ </tspan><tspan fill="#E6EDF3">echo $MOTTO</tspan></text></g>
+    <g clip-path="url(#c8)"><text x="40" y="320" fill="#FF4D8D">Learn. Build. Improve.</text></g>
+
+    <!-- blinking cursor -->
+    <g opacity="1">
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.8067;0.81;0.95;1" dur="15s" repeatCount="indefinite"/>
+      <rect x="258" y="305" width="10" height="20" fill="#00D9FF">
+        <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+</svg>

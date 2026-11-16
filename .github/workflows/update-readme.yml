@@ -1,0 +1,48 @@
+name: Update profile (projects + stat cards)
+
+on:
+  schedule:
+    - cron: "30 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/**"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Refresh projects section
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: Afnan-Ghoni-Brinto
+        run: python3 scripts/update_projects.py
+
+      - name: Generate stat cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: Afnan-Ghoni-Brinto
+        run: python3 scripts/generate_cards.py
+
+      - name: Commit changes
+        if: always()
+        run: |
+          git add README.md assets/cards
+          if git diff --cached --quiet; then
+            echo "Nothing to commit"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "chore: refresh projects and stat cards"
+            git push
+          fi

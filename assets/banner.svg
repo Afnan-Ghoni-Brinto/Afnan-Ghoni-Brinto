@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Afnan Ghoni Brinto - Computer Science Student and Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080B18"/>
+      <stop offset="0.5" stop-color="#24104F"/>
+      <stop offset="1" stop-color="#00394F"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E8C77B"/>
+      <stop offset="0.5" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#00D9FF"/>
+      <animate attributeName="x1" values="-1;0;-1" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;1;0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="orbCyan">
+      <stop offset="0" stop-color="#00D9FF" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#00D9FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbViolet">
+      <stop offset="0" stop-color="#8B5CF6" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbPink">
+      <stop offset="0" stop-color="#FF4D8D" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#FF4D8D" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#00D9FF" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#00D9FF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00D9FF" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#00D9FF" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1200" height="300" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <rect width="1200" height="300" fill="url(#grid)"/>
+
+    <!-- drifting glow orbs -->
+    <circle r="190" fill="url(#orbViolet)">
+      <animate attributeName="cx" values="180;360;180" dur="11s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="80;200;80" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="210" fill="url(#orbCyan)">
+      <animate attributeName="cx" values="1020;840;1020" dur="13s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="240;90;240" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="150" fill="url(#orbPink)">
+      <animate attributeName="cx" values="600;700;600" dur="15s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="300;230;300" dur="8s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- floating code glyphs -->
+    <g font-family="Consolas, 'Courier New', monospace" font-size="22" fill="#00D9FF">
+      <text x="80" y="300" opacity="0.0">{ }
+        <animate attributeName="y" values="310;-20" dur="9s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0.45;0" dur="9s" repeatCount="indefinite"/>
+      </text>
+      <text x="260" y="300" opacity="0.0">&lt;/&gt;
+        <animate attributeName="y" values="310;-20" dur="12s" begin="2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0.4;0" dur="12s" begin="2s" repeatCount="indefinite"/>
+      </text>
+      <text x="470" y="300" fill="#E8C77B" opacity="0.0">01
+        <animate attributeName="y" values="310;-20" dur="10s" begin="1s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0.5;0" dur="10s" begin="1s" repeatCount="indefinite"/>
+      </text>
+      <text x="740" y="300" fill="#FF4D8D" opacity="0.0">AI
+        <animate attributeName="y" values="310;-20" dur="11s" begin="3s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0.45;0" dur="11s" begin="3s" repeatCount="indefinite"/>
+      </text>
+      <text x="920" y="300" opacity="0.0">git
+        <animate attributeName="y" values="310;-20" dur="13s" begin="4s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0.4;0" dur="13s" begin="4s" repeatCount="indefinite"/>
+      </text>
+      <text x="1110" y="300" fill="#8B5CF6" opacity="0.0">λ
+        <animate attributeName="y" values="310;-20" dur="8s" begin="1.5s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0.6;0" dur="8s" begin="1.5s" repeatCount="indefinite"/>
+      </text>
+    </g>
+
+    <!-- scanning beam -->
+    <rect width="1200" height="60" fill="url(#scan)">
+      <animate attributeName="y" values="-60;300" dur="5s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- text -->
+    <text x="600" y="132" text-anchor="middle" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="62" font-weight="800" fill="url(#title)" textLength="820" lengthAdjust="spacingAndGlyphs">AFNAN GHONI BRINTO</text>
+    <text x="600" y="184" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="20" fill="#00D9FF" letter-spacing="5">COMPUTER SCIENCE STUDENT  •  DEVELOPER  •  AIUB</text>
+    <g font-family="Consolas, 'Courier New', monospace" font-size="17" fill="#E8C77B" letter-spacing="8" text-anchor="middle">
+      <text x="600" y="232" opacity="1">LEARN · BUILD · IMPROVE
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0;0.03;0.22;0.25;1" dur="16s" repeatCount="indefinite"/>
+      </text>
+      <text x="600" y="232" opacity="0">SOFTWARE · WEB DEVELOPMENT
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.25;0.28;0.47;0.5;1" dur="16s" repeatCount="indefinite"/>
+      </text>
+      <text x="600" y="232" opacity="0">AI · ML · ALGORITHMS
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.5;0.53;0.72;0.75;1" dur="16s" repeatCount="indefinite"/>
+      </text>
+      <text x="600" y="232" opacity="0">CODE · CHESS · CRICKET
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.75;0.78;0.97;1;1" dur="16s" repeatCount="indefinite"/>
+      </text>
+    </g>
+  </g>
+
+  <rect x="1" y="1" width="1198" height="298" rx="18" fill="none" stroke="#00D9FF" stroke-opacity="0.35">
+    <animate attributeName="stroke-opacity" values="0.15;0.6;0.15" dur="4s" repeatCount="indefinite"/>
+  </rect>
+</svg>

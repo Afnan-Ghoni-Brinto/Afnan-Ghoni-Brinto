@@ -1,111 +1,109 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=190&color=0:080B18,45:24104F,100:00D9FF&text=AFNAN%20GHONI%20BRINTO&fontColor=E8C77B&fontSize=36&fontAlignY=43&desc=COMPUTER%20SCIENCE%20STUDENT%20%7C%20DEVELOPER&descAlignY=64&descSize=14&animation=twinkling" width="100%" alt="Afnan Ghoni Brinto cyberpunk banner"/>
+<img src="assets/banner.svg" width="100%" alt="Afnan Ghoni Brinto - Computer Science Student and Developer"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student+at+AIUB;Learning+%7C+Building+%7C+Improving;Interested+in+Software+%26+Web+Development;Exploring+AI%2C+ML+%26+Algorithms" alt="Animated introduction"/>
+<br/>
 
-<p>
-  <a href="https://github.com/Afnan-Ghoni-Brinto"><img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/afnan-ghoni-brinto/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:afnanghonibrinto@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+<a href="https://www.linkedin.com/in/afnan-ghoni-brinto/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:afnanghonibrinto@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://img.shields.io/github/followers/Afnan-Ghoni-Brinto?style=for-the-badge&logo=github&color=24104F&labelColor=080B18" alt="GitHub followers"/>
+<img src="https://komarev.com/ghpvc/?username=Afnan-Ghoni-Brinto&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
----
+<br/>
 
-## `$ whoami`
+<div align="center"><img src="assets/sections/about.svg" width="100%" alt="About Me"/></div>
 
-I'm **Afnan Ghoni Brinto**, a Computer Science and Engineering student at **American International University-Bangladesh (AIUB)**. I enjoy programming, solving problems, and learning how software is designed and built.
+<div align="center">
+  <img src="assets/terminal.svg" width="80%" alt="Animated terminal: Afnan Ghoni Brinto, Computer Science and Engineering student at AIUB"/>
+</div>
 
-- 🎓 Studying Computer Science & Engineering at AIUB
-- 💻 Interested in software development and web technologies
-- 🧠 Curious about Artificial Intelligence and Machine Learning
-- 🧩 Learning and practicing Data Structures and Algorithms
-- 🌱 Always working to improve my technical skills
-- ♟️ Hobbies: Chess, cricket, anime, and video games
+<br/>
 
-## `$ tech-stack`
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <h3>🎓 Education</h3>
+      Computer Science &amp; Engineering<br/>
+      <b>American International University-Bangladesh (AIUB)</b>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>🧠 Interests</h3>
+      Software &amp; web development<br/>
+      AI &amp; machine learning<br/>
+      Data structures &amp; algorithms
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3>🎮 Off the keyboard</h3>
+      Chess ♟️ · Cricket 🏏<br/>
+      Anime 🎌 · Video games 🎮
+    </td>
+  </tr>
+</table>
 
-**Programming languages**
+<br/>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,python,js" alt="C, C++, Java, C sharp, Python and JavaScript"/>
-</p>
+<div align="center"><img src="assets/sections/stack.svg" width="100%" alt="Tech Stack"/></div>
 
-**Web, database and development tools**
+<table width="100%">
+  <tr>
+    <td width="22%" align="center"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=c,cpp,java,cs,python,js&theme=dark" alt="C, C++, Java, C sharp, Python, JavaScript"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Web &amp; Database</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,mysql&theme=dark" alt="HTML, CSS, MySQL"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark" alt="Git, GitHub, VS Code, Visual Studio"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Concepts</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Data_Structures-172554?style=for-the-badge&logoColor=white" alt="Data Structures"/>
+      <img src="https://img.shields.io/badge/Algorithms-312E81?style=for-the-badge&logoColor=white" alt="Algorithms"/>
+      <img src="https://img.shields.io/badge/Database_Management-164E63?style=for-the-badge&logoColor=white" alt="Database Management"/>
+      <img src="https://img.shields.io/badge/Java_Swing-B45309?style=for-the-badge&logo=java&logoColor=white" alt="Java Swing"/>
+      <img src="https://img.shields.io/badge/AI_%26_ML-7C3AED?style=for-the-badge&logoColor=white" alt="AI and ML"/>
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,mysql,git,github,vscode,visualstudio" alt="HTML, CSS, MySQL, Git, GitHub, VS Code and Visual Studio"/>
-</p>
+<br/>
 
-**Concepts and technologies**
+<div align="center"><img src="assets/sections/projects.svg" width="100%" alt="Projects"/></div>
 
-<p>
-  <img src="https://img.shields.io/badge/Data_Structures-172554?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Algorithms-312E81?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Database_Management-164E63?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java_Swing-B45309?style=flat-square&logo=java&logoColor=white"/>
-</p>
-
-## `$ projects`
-
-I’m building and improving projects as I continue learning.
+<!--PROJECTS:START-->
+<!-- This block is rewritten automatically by .github/workflows/update-readme.yml -->
 
 🔎 **[Browse all my public repositories](https://github.com/Afnan-Ghoni-Brinto?tab=repositories)**
 
-*Selected project highlights will be added here once the repository names and descriptions have been confirmed.*
+<!--PROJECTS:END-->
 
-## `$ github-stats`
+<br/>
 
-<div align="center">
+<div align="center"><img src="assets/sections/stats.svg" width="100%" alt="GitHub Stats"/></div>
 
-  <!-- GitHub Statistics -->
-  <img
-    height="180"
-    src="https://github-stats-extended.vercel.app/api?username=Afnan-Ghoni-Brinto&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&contribs_include_own_repos=true"
-    alt="Afnan's GitHub Statistics"
-  />
+<table width="100%">
+  <tr>
+    <td width="50%"><img src="assets/cards/stats.svg" width="100%" alt="GitHub stats"/></td>
+    <td width="50%"><img src="assets/cards/languages.svg" width="100%" alt="Most used languages"/></td>
+  </tr>
+</table>
 
-  <h3>⚡ My Coding Languages</h3>
+<img src="assets/cards/streak.svg" width="100%" alt="Contribution streak"/>
 
-  <p align="center">
-    <i>Exploring technologies, writing code, and building new things.</i>
-  </p>
+<br/><br/>
 
-  <br/>
+<div align="center"><img src="assets/sections/achievements.svg" width="100%" alt="Achievements"/></div>
 
-  <a href="https://github.com/Afnan-Ghoni-Brinto">
-    <img
-      width="85%"
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=Afnan-Ghoni-Brinto&layout=donut-vertical&theme=tokyonight&hide_border=false&border_color=30363D&border_radius=12&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=8B5CF6&langs_count=10&card_width=600&custom_title=MY%20LANGUAGE%20ECOSYSTEM&size_weight=0.5&count_weight=0.5"
-      alt="Afnan's Language Statistics"
-    />
-  </a>
+<img src="assets/cards/achievements.svg" width="100%" alt="Achievements earned from GitHub activity"/>
 
-  <br/><br/>
+<br/><br/>
 
-  <img src="https://img.shields.io/badge/LEARN-00D9FF?style=flat-square&labelColor=080B18" />
-  <img src="https://img.shields.io/badge/BUILD-8B5CF6?style=flat-square&labelColor=080B18" />
-  <img src="https://img.shields.io/badge/IMPROVE-FF4D8D?style=flat-square&labelColor=080B18" />
-
-  <br/><br/>
-
-  <sub>Every line of code is another step forward.</sub>
-
-</div>
-  <br/>
-
-  <!-- Contribution Streak -->
-  <img
-  width="70%"
-  src="https://streak-stats.demolab.com/?user=Afnan-Ghoni-Brinto&theme=tokyonight&hide_border=true&ring=00D9FF&fire=FF4D8D&currStreakLabel=00D9FF&v=2"
-  alt="GitHub Contribution Streak"
-  />
-
-</div>
-
-## `$ contribution-snake`
+<div align="center"><img src="assets/sections/snake.svg" width="100%" alt="Contribution Snake"/></div>
 
 <div align="center">
   <picture>
@@ -115,25 +113,49 @@ I’m building and improving projects as I continue learning.
   </picture>
 </div>
 
-## `$ connect`
+<br/>
+
+<div align="center"><img src="assets/sections/focus.svg" width="100%" alt="Currently"/></div>
+
+<table width="100%">
+  <tr>
+    <th width="34%">🔭 Focus</th>
+    <th>🎯 Goal</th>
+  </tr>
+  <tr>
+    <td><b>Data Structures &amp; Algorithms</b></td>
+    <td>Practice consistently and get faster at solving problems</td>
+  </tr>
+  <tr>
+    <td><b>Web &amp; Software Development</b></td>
+    <td>Build and publish real projects, not just tutorials</td>
+  </tr>
+  <tr>
+    <td><b>AI &amp; Machine Learning</b></td>
+    <td>Learn the fundamentals and try small experiments</td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center"><img src="assets/sections/connect.svg" width="100%" alt="Let's Connect"/></div>
 
 <div align="center">
-  <a href="https://github.com/Afnan-Ghoni-Brinto"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+  <i>Always happy to learn together, collaborate on projects and meet new people. Say hi!</i>
+
+  <br/><br/>
+
   <a href="https://www.linkedin.com/in/afnan-ghoni-brinto/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.facebook.com/afnan.ghoni.524"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
   <a href="https://www.instagram.com/afnan_ghoni_brinto/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://www.threads.com/@afnan_ghoni_brinto/"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/></a>
   <a href="mailto:afnanghonibrinto@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</div>
 
----
+  <br/><br/>
 
-<div align="center">
-
-**`Keep learning. Keep building. Keep improving.`**
-
-<img src="https://komarev.com/ghpvc/?username=Afnan-Ghoni-Brinto&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B18,50:24104F,100:00D9FF&height=105&section=footer" width="100%" alt="Cyberpunk footer"/>
+  **`Keep learning. Keep building. Keep improving.`**
 
 </div>
+
+<img src="assets/footer.svg" width="100%" alt=""/>

@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 322" width="860" height="322" role="img" aria-label="Achievements earned from GitHub activity">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0D1117"/><stop offset="1" stop-color="#111B2E"/></linearGradient>
+    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8B5CF6"/><stop offset="0.5" stop-color="#00D9FF"/><stop offset="1" stop-color="#FF4D8D"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="858" height="320" rx="16" fill="url(#bg)" stroke="#30363D" stroke-width="2"/>
+  <rect x="28" y="1" width="64" height="4" rx="2" fill="url(#acc)"/>
+  <text x="28" y="46" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="700" fill="#00D9FF">Achievements</text>
+  <text x="832" y="44" text-anchor="end" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#6E7681">Seed → Bronze → Silver → Gold → Diamond</text>
+  <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.000;1" dur="0.60s" begin="0s" fill="freeze"/>
+    <rect x="28" y="68" width="190" height="112" rx="12" fill="#0F1623" stroke="#C0C8D4" stroke-opacity="0.5" stroke-width="1.5"/>
+    <circle cx="66" cy="108" r="22" fill="#C0C8D4" fill-opacity="0.14" stroke="#C0C8D4" stroke-width="2"/>
+    <polygon points="66.0,98.0 68.8,105.1 76.5,105.6 70.6,110.5 72.5,117.9 66.0,113.8 59.5,117.9 61.4,110.5 55.5,105.6 63.2,105.1" fill="#C0C8D4" stroke="#C0C8D4" stroke-width="1.5" stroke-linejoin="round"/>
+    <text x="98" y="102" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" letter-spacing="1" fill="#8B949E">COMMITS</text>
+    <text x="98" y="130" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="800" fill="#C0C8D4">119</text>
+    <text x="44" y="156" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#C0C8D4">SILVER</text>
+    <text x="202" y="156" text-anchor="end" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#6E7681">next: 150</text>
+    <rect x="44" y="164" width="158" height="6" rx="3" fill="#1F2937"/>
+    <rect x="44" y="164" width="109.0" height="6" rx="3" fill="#C0C8D4"><animate attributeName="width" from="0" to="109.0" dur="1.2s" fill="freeze"/></rect>
+  </g>
+  <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.167;1" dur="0.72s" begin="0s" fill="freeze"/>
+    <rect x="232" y="68" width="190" height="112" rx="12" fill="#0F1623" stroke="#CD7F32" stroke-opacity="0.5" stroke-width="1.5"/>
+    <circle cx="270" cy="108" r="22" fill="#CD7F32" fill-opacity="0.14" stroke="#CD7F32" stroke-width="2"/>
+    <polygon points="270.0,98.0 272.8,105.1 280.5,105.6 274.6,110.5 276.5,117.9 270.0,113.8 263.5,117.9 265.4,110.5 259.5,105.6 267.2,105.1" fill="#CD7F32" stroke="#CD7F32" stroke-width="1.5" stroke-linejoin="round"/>
+    <text x="302" y="102" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" letter-spacing="1" fill="#8B949E">STARS EARNED</text>
+    <text x="302" y="130" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="800" fill="#CD7F32">1</text>
+    <text x="248" y="156" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#CD7F32">BRONZE</text>
+    <text x="406" y="156" text-anchor="end" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#6E7681">next: 5</text>
+    <rect x="248" y="164" width="158" height="6" rx="3" fill="#1F2937"/>
+    <rect x="248" y="164" width="0.0" height="6" rx="3" fill="#CD7F32"><animate attributeName="width" from="0" to="0.0" dur="1.2s" fill="freeze"/></rect>
+  </g>
+  <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.286;1" dur="0.84s" begin="0s" fill="freeze"/>
+    <rect x="436" y="68" width="190" height="112" rx="12" fill="#0F1623" stroke="#64748B" stroke-opacity="0.5" stroke-width="1.5"/>
+    <circle cx="474" cy="108" r="22" fill="#64748B" fill-opacity="0.14" stroke="#64748B" stroke-width="2"/>
+    <polygon points="474.0,98.0 476.8,105.1 484.5,105.6 478.6,110.5 480.5,117.9 474.0,113.8 467.5,117.9 469.4,110.5 463.5,105.6 471.2,105.1" fill="none" stroke="#64748B" stroke-width="1.5" stroke-linejoin="round"/>
+    <text x="506" y="102" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" letter-spacing="1" fill="#8B949E">PULL REQUESTS</text>
+    <text x="506" y="130" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="800" fill="#64748B">0</text>
+    <text x="452" y="156" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#64748B">SEED</text>
+    <text x="610" y="156" text-anchor="end" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#6E7681">next: 1</text>
+    <rect x="452" y="164" width="158" height="6" rx="3" fill="#1F2937"/>
+    <rect x="452" y="164" width="0.0" height="6" rx="3" fill="#64748B"><animate attributeName="width" from="0" to="0.0" dur="1.2s" fill="freeze"/></rect>
+  </g>
+  <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.375;1" dur="0.96s" begin="0s" fill="freeze"/>
+    <rect x="640" y="68" width="190" height="112" rx="12" fill="#0F1623" stroke="#CD7F32" stroke-opacity="0.5" stroke-width="1.5"/>
+    <circle cx="678" cy="108" r="22" fill="#CD7F32" fill-opacity="0.14" stroke="#CD7F32" stroke-width="2"/>
+    <polygon points="678.0,98.0 680.8,105.1 688.5,105.6 682.6,110.5 684.5,117.9 678.0,113.8 671.5,117.9 673.4,110.5 667.5,105.6 675.2,105.1" fill="#CD7F32" stroke="#CD7F32" stroke-width="1.5" stroke-linejoin="round"/>
+    <text x="710" y="102" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" letter-spacing="1" fill="#8B949E">ISSUES</text>
+    <text x="710" y="130" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="800" fill="#CD7F32">1</text>
+    <text x="656" y="156" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#CD7F32">BRONZE</text>
+    <text x="814" y="156" text-anchor="end" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#6E7681">next: 5</text>
+    <rect x="656" y="164" width="158" height="6" rx="3" fill="#1F2937"/>
+    <rect x="656" y="164" width="0.0" height="6" rx="3" fill="#CD7F32"><animate attributeName="width" from="0" to="0.0" dur="1.2s" fill="freeze"/></rect>
+  </g>
+  <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.444;1" dur="1.08s" begin="0s" fill="freeze"/>
+    <rect x="28" y="194" width="190" height="112" rx="12" fill="#0F1623" stroke="#C0C8D4" stroke-opacity="0.5" stroke-width="1.5"/>
+    <circle cx="66" cy="234" r="22" fill="#C0C8D4" fill-opacity="0.14" stroke="#C0C8D4" stroke-width="2"/>
+    <polygon points="66.0,224.0 68.8,231.1 76.5,231.6 70.6,236.5 72.5,243.9 66.0,239.8 59.5,243.9 61.4,236.5 55.5,231.6 63.2,231.1" fill="#C0C8D4" stroke="#C0C8D4" stroke-width="1.5" stroke-linejoin="round"/>
+    <text x="98" y="228" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" letter-spacing="1" fill="#8B949E">CONTRIBUTIONS</text>
+    <text x="98" y="256" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="800" fill="#C0C8D4">150</text>
+    <text x="44" y="282" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#C0C8D4">SILVER</text>
+    <text x="202" y="282" text-anchor="end" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#6E7681">next: 500</text>
+    <rect x="44" y="290" width="158" height="6" rx="3" fill="#1F2937"/>
+    <rect x="44" y="290" width="19.8" height="6" rx="3" fill="#C0C8D4"><animate attributeName="width" from="0" to="19.8" dur="1.2s" fill="freeze"/></rect>
+  </g>
+  <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.500;1" dur="1.20s" begin="0s" fill="freeze"/>
+    <rect x="232" y="194" width="190" height="112" rx="12" fill="#0F1623" stroke="#C0C8D4" stroke-opacity="0.5" stroke-width="1.5"/>
+    <circle cx="270" cy="234" r="22" fill="#C0C8D4" fill-opacity="0.14" stroke="#C0C8D4" stroke-width="2"/>
+    <polygon points="270.0,224.0 272.8,231.1 280.5,231.6 274.6,236.5 276.5,243.9 270.0,239.8 263.5,243.9 265.4,236.5 259.5,231.6 267.2,231.1" fill="#C0C8D4" stroke="#C0C8D4" stroke-width="1.5" stroke-linejoin="round"/>
+    <text x="302" y="228" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" letter-spacing="1" fill="#8B949E">BEST STREAK</text>
+    <text x="302" y="256" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="800" fill="#C0C8D4">13 days</text>
+    <text x="248" y="282" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#C0C8D4">SILVER</text>
+    <text x="406" y="282" text-anchor="end" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#6E7681">next: 14 days</text>
+    <rect x="248" y="290" width="158" height="6" rx="3" fill="#1F2937"/>
+    <rect x="248" y="290" width="135.4" height="6" rx="3" fill="#C0C8D4"><animate attributeName="width" from="0" to="135.4" dur="1.2s" fill="freeze"/></rect>
+  </g>
+  <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.545;1" dur="1.32s" begin="0s" fill="freeze"/>
+    <rect x="436" y="194" width="190" height="112" rx="12" fill="#0F1623" stroke="#E8C77B" stroke-opacity="0.5" stroke-width="1.5"/>
+    <circle cx="474" cy="234" r="22" fill="#E8C77B" fill-opacity="0.14" stroke="#E8C77B" stroke-width="2"/>
+    <polygon points="474.0,224.0 476.8,231.1 484.5,231.6 478.6,236.5 480.5,243.9 474.0,239.8 467.5,243.9 469.4,236.5 463.5,231.6 471.2,231.1" fill="#E8C77B" stroke="#E8C77B" stroke-width="1.5" stroke-linejoin="round"/>
+    <text x="506" y="228" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" letter-spacing="1" fill="#8B949E">LANGUAGES</text>
+    <text x="506" y="256" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="800" fill="#E8C77B">7</text>
+    <text x="452" y="282" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#E8C77B">GOLD</text>
+    <text x="610" y="282" text-anchor="end" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#6E7681">next: 10</text>
+    <rect x="452" y="290" width="158" height="6" rx="3" fill="#1F2937"/>
+    <rect x="452" y="290" width="39.5" height="6" rx="3" fill="#E8C77B"><animate attributeName="width" from="0" to="39.5" dur="1.2s" fill="freeze"/></rect>
+  </g>
+  <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.583;1" dur="1.44s" begin="0s" fill="freeze"/>
+    <rect x="640" y="194" width="190" height="112" rx="12" fill="#0F1623" stroke="#E8C77B" stroke-opacity="0.5" stroke-width="1.5"/>
+    <circle cx="678" cy="234" r="22" fill="#E8C77B" fill-opacity="0.14" stroke="#E8C77B" stroke-width="2"/>
+    <polygon points="678.0,224.0 680.8,231.1 688.5,231.6 682.6,236.5 684.5,243.9 678.0,239.8 671.5,243.9 673.4,236.5 667.5,231.6 675.2,231.1" fill="#E8C77B" stroke="#E8C77B" stroke-width="1.5" stroke-linejoin="round"/>
+    <text x="710" y="228" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" letter-spacing="1" fill="#8B949E">CONTRIBUTED TO</text>
+    <text x="710" y="256" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="800" fill="#E8C77B">28 repos</text>
+    <text x="656" y="282" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#E8C77B">GOLD</text>
+    <text x="814" y="282" text-anchor="end" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#6E7681">next: 40 repos</text>
+    <rect x="656" y="290" width="158" height="6" rx="3" fill="#1F2937"/>
+    <rect x="656" y="290" width="82.2" height="6" rx="3" fill="#E8C77B"><animate attributeName="width" from="0" to="82.2" dur="1.2s" fill="freeze"/></rect>
+  </g>
+</svg>
