@@ -7,7 +7,7 @@
   <rect x="28" y="1" width="64" height="4" rx="2" fill="url(#acc)"/>
   <text x="28" y="46" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="700" fill="#00D9FF">Contribution Streak</text>
   <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.250;1" dur="0.80s" begin="0s" fill="freeze"/>
-    <text x="150" y="116" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="38" font-weight="800" fill="#E8C77B">164</text>
+    <text x="150" y="116" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="38" font-weight="800" fill="#E8C77B">166</text>
     <text x="150" y="144" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#8B949E">Total Contributions</text>
     <text x="150" y="164" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#6E7681">Dec 4, 2025 - Present</text>
   </g>
@@ -19,14 +19,14 @@
       <animate attributeName="stroke-dashoffset" from="238.8" to="0.0" dur="1.4s" fill="freeze"/>
     </circle>
   </g>
-  <text x="430" y="122" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="800" fill="#00D9FF">18</text>
+  <text x="430" y="122" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="800" fill="#00D9FF">19</text>
   <circle cx="430" cy="74" r="10" fill="#0F1520"/>
   <path transform="translate(430 74) scale(0.8)" d="M0,-12 C5,-5 9,-1 7,6 C5,11 -5,11 -7,6 C-9,-1 -3,-5 0,-12Z" fill="#FF4D8D"><animate attributeName="opacity" values="1;0.55;1" dur="1.6s" repeatCount="indefinite"/></path>
   <text x="430" y="171" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="700" fill="#00D9FF">Current Streak</text>
-  <text x="430" y="188" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#6E7681">Nov 5 - Nov 22</text>
+  <text x="430" y="188" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#6E7681">Nov 5 - Nov 23</text>
   <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.250;1" dur="0.80s" begin="0s" fill="freeze"/>
-    <text x="710" y="116" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="38" font-weight="800" fill="#FF4D8D">18</text>
+    <text x="710" y="116" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="38" font-weight="800" fill="#FF4D8D">19</text>
     <text x="710" y="144" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="600" fill="#8B949E">Longest Streak</text>
-    <text x="710" y="164" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#6E7681">Nov 5 - Nov 22</text>
+    <text x="710" y="164" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11" fill="#6E7681">Nov 5 - Nov 23</text>
   </g>
 </svg>
